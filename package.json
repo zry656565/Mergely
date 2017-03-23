@@ -1,0 +1,21 @@
+{
+  "name": "mergely",
+  "version": "3.4.3",
+  "description": "An online diff/merge application",
+  "directories": {
+    "doc": "doc",
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zry656565/Mergely.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zry656565/Mergely/issues"
+  },
+  "homepage": "https://github.com/zry656565/Mergely#readme"
+}
